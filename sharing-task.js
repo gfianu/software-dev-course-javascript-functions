@@ -89,3 +89,7 @@ reusable functions that solve specific tasks. This activity encourages:
 // - Explain how your team approached the design and testing process
 
 // ✅ Bonus: Can you extend any of the functions to be more flexible or reusable?
+
+// ============================================
+//Worked with Jamey during group activity
+// ============================================
